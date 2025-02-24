@@ -49,13 +49,13 @@ http://localhost:5000
 Here are some screenshots showcasing the V-TRACK: Face Recognition-Based Attendance System in action.
 
 🏠 Home Page - Webpage
-![image](https://github.com/user-attachments/assets/7fd25b28-1c96-46c7-85e8-fafe567ebafb)
+![Picture11](https://github.com/user-attachments/assets/251e946c-26d9-4dd3-9317-020c05eb1ce8)
 
 🛠️ Service Page (Features & Functionality) - Webpage
-![image](https://github.com/user-attachments/assets/f4a958e8-5d76-4cdb-b045-b64aeab2a5d5)
+![Picture12](https://github.com/user-attachments/assets/2e4259e8-c343-4e9d-99c8-b3a8d8dfc820)
 
 ℹ️ About Us Page - Webpage
-![image](https://github.com/user-attachments/assets/ab26afca-a08b-44bf-8952-908954ac12ee)
+![Picture13](https://github.com/user-attachments/assets/222882bc-8902-4f1e-bffd-a5c59d498a9b)
 
 📞 Contact Us Page - Webpage
 ![image](https://github.com/user-attachments/assets/7b37cd07-d6a4-4e98-b9f5-65d6f96fda59)
