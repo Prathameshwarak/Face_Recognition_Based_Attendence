@@ -58,11 +58,11 @@ Here are some screenshots showcasing the V-TRACK: Face Recognition-Based Attenda
 ![Picture13](https://github.com/user-attachments/assets/222882bc-8902-4f1e-bffd-a5c59d498a9b)
 
 📞 Contact Us Page - Webpage
-![image](https://github.com/user-attachments/assets/7b37cd07-d6a4-4e98-b9f5-65d6f96fda59)
+![Picture14](https://github.com/user-attachments/assets/f387e352-bdc7-4601-9cf0-4e7bd4ae1fe6)
 
 🔐 User Login Page - Webpage
-![image](https://github.com/user-attachments/assets/872c9a94-2795-4bf4-9da6-2b9413c7baca)
-![image](https://github.com/user-attachments/assets/9b01b249-1961-4332-bb45-6a8601e4d4bd)
+![Picture15](https://github.com/user-attachments/assets/a0a1fd9a-2f5d-4617-9fbe-d57d2b7d7a8c)
+![Picture16](https://github.com/user-attachments/assets/baf4930b-134d-495d-a9d6-721c05008913)
 
 📋 Attendance Dashboard - python application
 ![image](https://github.com/user-attachments/assets/c81c7a64-d456-481f-ad14-4148e04a1a02)
